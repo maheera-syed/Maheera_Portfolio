@@ -30,11 +30,11 @@ const Navbar = () => {
                   Home <span class='sr-only'></span>
                 </a>
               </li>
-              <li class='nav-item'>
+              {/* <li class='nav-item'>
                 <a class='nav-link' href='#'>
                   Link
                 </a>
-              </li>
+              </li> */}
               <li class='nav-item'>
                 <a class='nav-link' href='#'>
                   About
@@ -42,17 +42,17 @@ const Navbar = () => {
               </li>{' '}
               <li class='nav-item'>
                 <a class='nav-link' href='#'>
-                  Services
+                  Skills{' '}
                 </a>
               </li>{' '}
-              <li class='nav-item'>
+              {/* <li class='nav-item'>
                 <a class='nav-link' href='#'>
                   Experience
                 </a>
-              </li>{' '}
+              </li>{' '} */}
               <li class='nav-item'>
                 <a class='nav-link' href='#'>
-                  Portfolio
+                  Work
                 </a>
               </li>
               <li class='nav-item'>
